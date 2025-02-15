@@ -10,7 +10,7 @@ import pkg from "../lerna.json";
 import { getOutput } from "./utils/get-output";
 import { printBanner, printSpacer } from "./utils/print-utils";
 
-const ORG = "PaloAltoNetworks";
+const ORG = "bobbyg603";
 const REPO = "docusaurus-openapi-docs";
 const BRANCH = "v3.0.0";
 

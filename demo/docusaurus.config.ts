@@ -18,7 +18,7 @@ const config: Config = {
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "PaloAltoNetworks",
+  organizationName: "bobbyg603",
   projectName: "docusaurus-openapi-docs",
 
   presets: [
@@ -29,7 +29,7 @@ const config: Config = {
           routeBasePath: "/",
           sidebarPath: "./sidebars.ts",
           editUrl:
-            "https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/tree/main/demo",
+            "https://github.com/bobbyg603/docusaurus-openapi-docs/tree/main/demo",
           docItemComponent: "@theme/ApiItem", // Derived from docusaurus-theme-openapi
         },
         blog: false,
@@ -89,7 +89,7 @@ const config: Config = {
           "aria-label": "Palo Alto Networks Developer Blog",
         },
         {
-          href: "https://github.com/PaloAltoNetworks/docusaurus-openapi-docs",
+          href: "https://github.com/bobbyg603/docusaurus-openapi-docs",
           position: "right",
           className: "header-github-link",
           "aria-label": "GitHub repository",
@@ -134,7 +134,7 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/PaloAltoNetworks/docusaurus-openapi-docs",
+              href: "https://github.com/bobbyg603/docusaurus-openapi-docs",
             },
           ],
         },
@@ -277,7 +277,7 @@ const config: Config = {
             label: "v2.0.0", // Current version label
             baseUrl: "/petstore_versioned/swagger-petstore-yaml", // Leading slash is important
             downloadUrl:
-              "https://raw.githubusercontent.com/PaloAltoNetworks/docusaurus-openapi-docs/main/demo/examples/petstore.yaml",
+              "https://raw.githubusercontent.com/bobbyg603/docusaurus-openapi-docs/main/demo/examples/petstore.yaml",
             versions: {
               "1.0.0": {
                 specPath: "examples/petstore-1.0.0.yaml",

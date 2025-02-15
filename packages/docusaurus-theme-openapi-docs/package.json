@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PaloAltoNetworks/docusaurus-openapi-docs.git",
+    "url": "https://github.com/bobbyg603/docusaurus-openapi-docs.git",
     "directory": "packages/docusaurus-theme-openapi-docs"
   },
   "bugs": {
-    "url": "https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/issues"
+    "url": "https://github.com/bobbyg603/docusaurus-openapi-docs/issues"
   },
   "types": "src/theme-openapi.d.ts",
   "main": "lib/index.js",

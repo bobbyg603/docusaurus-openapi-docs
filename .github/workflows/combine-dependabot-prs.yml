@@ -22,7 +22,7 @@ on:
 
 jobs:
   combine-prs:
-    if: github.repository_owner == 'PaloAltoNetworks'
+    if: github.repository_owner == 'bobbyg603'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v7
