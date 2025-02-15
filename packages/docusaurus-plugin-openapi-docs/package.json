@@ -1,5 +1,5 @@
 {
-  "name": "docusaurus-plugin-openapi-docs",
+  "name": "@bobbyg603/docusaurus-plugin-openapi-docs",
   "description": "OpenAPI plugin for Docusaurus.",
   "version": "4.3.4",
   "license": "MIT",
